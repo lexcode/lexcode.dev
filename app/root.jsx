@@ -8,7 +8,7 @@ import {
 } from "remix";
 
 export function meta() {
-  return { title: "Alex Oliveira Software Developer - lexcode.dev" };
+  return { title: "Alex Oliveira Front-end Developer - lexcode.dev" };
 }
 
 export default function App() {
