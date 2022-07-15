@@ -5,7 +5,7 @@ export default function Index() {
     <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.4" }}>
       <h1>lexcode.dev</h1>
       <h2>
-        Alex Oliveira / <span>Front-end Developer</span>
+        Alex Oliveira / <span>Senior frontend engineer</span>
       </h2>
 
       <ul>
